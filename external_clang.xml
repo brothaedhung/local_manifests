@@ -1,0 +1,1 @@
+<manifest><remote name="brothaedhung" fetch="git://github.com"/><project path="external/clang" name="brothaedhung/external_clang" remote="brothaedhung" revision="CM-10.1"/></manifest>

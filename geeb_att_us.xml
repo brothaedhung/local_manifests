@@ -1,0 +1,1 @@
+<manifest><remote name="brothaedhung" fetch="git://github.com"/><project path="device/lge/geeb_att_us" name="brothaedhung/android_device_lge_geeb_att_us" remote="brothaedhung" revision="cm-10.1"/></manifest>

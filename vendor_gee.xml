@@ -1,0 +1,1 @@
+<manifest><remote name="brothaedhung" fetch="git://github.com"/><project path="vendor/lge/gee" name="brothaedhung/android_vendor_lge_gee" remote="brothaedhung" revision="cm-10.1"/></manifest>
