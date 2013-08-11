@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="github" fetch="git://github.com" />
+
+<project path="frameworks/opt/telephony" name="dvhexer/android_frameworks_opt_telephony" remote="github" revision="cm-10.1" />
+
+</manifest>
